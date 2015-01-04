@@ -1,0 +1,15 @@
+{
+  "name": "brackets-jsoniq",
+  "title": "JSONiq for Brackets",
+  "description": "JSONiq support for Brackets",
+  "homepage": "https://github.com/wcandillon/brackets-jsoniq",
+  "version": "0.1.0",
+  "author": "William Candillon <w@28.io>",
+  "license": "Apache2",
+  "engines": {
+    "brackets": ">=0.31.0"
+  },
+  "dependencies": {
+    "xqlint": "^0.2.1"
+  }
+}
